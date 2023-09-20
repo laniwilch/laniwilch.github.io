@@ -24,7 +24,7 @@ header h1 {
 
 
 }
-header h1 {
+header h2 {
     font-size: 130%;
     color:rgb(98, 169, 231);
     text-indent: 30px;
@@ -37,7 +37,7 @@ img{
 }
 main { clear: left;
 }
-main {
+main h3 {
     margin: 3em 2em 1.5em;
     border: 5px double blue;
     border-radius: 20px;
@@ -45,8 +45,18 @@ main {
     padding: 1em;
     font-size: 105%
 }
+main nav { 
+    margin-top: 1.5em 2em 2em 1.5em;
+    border: 5px dashed blue;
+    border-radius: 20px;
+
+
+}
 #list {
     line-height: 1.5em
+}
+div.contact {
+
 }
 footer p.copyright {
     text-align: center;
