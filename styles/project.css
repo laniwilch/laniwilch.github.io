@@ -67,3 +67,19 @@ aside{
     background-color: beige;
     padding: 15px 1.5em 1.5em;
 }
+footer{
+    clear:both;
+    border-top: 2px solid gray;
+}
+footer p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
+p.fixed {
+    width: auto;
+    position:fixed;
+    bottom: 35%;
+    right: 0;
+    border: 3px solid lightpink;
+    background-color: gray;
+}
