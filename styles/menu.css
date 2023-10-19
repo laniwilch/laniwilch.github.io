@@ -1,11 +1,12 @@
 #nav_menu ul {
     list-style-type: none;
 }
-h1{
-    text-align: right;
+h1 {
+    float:left;
 }
 #nav_menu ul li {
     float: left;
+    
 }
 #nav_menu ul li a {
     text-align: center;
