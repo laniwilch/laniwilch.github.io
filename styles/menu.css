@@ -1,6 +1,9 @@
 #nav_menu ul {
     list-style-type: none;
 }
+h1{
+    text-align: right;
+}
 #nav_menu ul li {
     float: left;
 }
