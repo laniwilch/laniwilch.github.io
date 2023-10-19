@@ -1,3 +1,6 @@
+#nav_menu ul {
+    list-style-type: none;
+}
 #nav_menu ul li a {
     text-align: center;
     display: block;
@@ -8,6 +11,12 @@
     color: white;
     font-weight: bold;
     border-right: 2px solid white;
+}
+#nav_menu ul li a.lastitem {
+    border-right: none;
+}
+#nav_menu ul li a.current{
+    color: yellow;
 }
 body {
     width: 95%;
