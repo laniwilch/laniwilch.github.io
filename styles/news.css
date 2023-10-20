@@ -1,5 +1,5 @@
 html {
-    background-image: linear-gradient(to left, white 0%, red 100%);
+    background-image: white;
 }
 body {
     min-height: 100vh;
