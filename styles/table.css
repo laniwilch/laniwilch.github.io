@@ -40,7 +40,8 @@ html, body {
         border: 2px solid orangered;
     }
     table.third thead tr:first-child{ 
-        border-top: 2px solid orangered;
+        border: 2px solid orangered;
+        background-color: lightgreen;
     }
     table.third thead tr:nth-child(2){
         background-color:lightgreen;
