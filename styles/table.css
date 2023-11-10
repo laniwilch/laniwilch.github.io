@@ -35,7 +35,7 @@ html, body {
         border-bottom: 2px solid purple;
     }
     /*-----------------------------------------------------------*/
-    table.third {
+    table.third thead{
         border-collapse: collapse;
         border: 2px solid orangered;
     }
