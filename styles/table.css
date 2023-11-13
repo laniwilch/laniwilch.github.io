@@ -49,8 +49,7 @@ html, body {
         padding: .5em;
         vertical-align: top;
     }
-    table.third thead tr:first-child{ 
-        border: 2px solid orangered;
+    table.third thead tr:first-child{   
         background-color: lightgreen;
     }
     table.third thead tr:nth-child(2){
