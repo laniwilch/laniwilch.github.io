@@ -17,11 +17,6 @@ label {
     width: 9em;
     text-align: right;
 }
-input, select {
-    margin-left:5em;
-    margin-bottom: 5em;
-}
-
 input:required {
     border: 3px solid red;
 }
